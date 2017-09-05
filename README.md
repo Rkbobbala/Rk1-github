@@ -1,2 +1,2 @@
 # Rk1-github
-This is for tutorial pupose.
+This is for tutorial purpose.
